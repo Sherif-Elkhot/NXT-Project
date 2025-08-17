@@ -1,4 +1,4 @@
-# Shopping from E-commerce
+# Shopping from E-Commerce Platform
 
 **Shopping from E-commerce** is a smart comparison platform that unifies major e-commerce stores (Amazon, Noon, Jumia, and more) into one seamless experience. The platform helps users find the **lowest total cost**, apply coupons, and make informed shopping decisions with ease.  
 
