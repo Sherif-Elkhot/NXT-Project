@@ -1,4 +1,4 @@
-# Train Dates Management
+# Train Dates Management Platform
 
 **Train Dates Management** is a web platform designed to help users easily browse train schedules, book journeys, manage reservations, and track real-time availability. The system provides a smooth and intuitive interface to ensure a convenient travel planning experience.  
 
